@@ -28,7 +28,7 @@
    <a>
    <img alt="Static Badge" src="https://img.shields.io/badge/Jenkins-Jenkins?style=plastic&logo=Jenkins&logoColor=white&color=red">
    </a>
-     &emsp;
+   &emsp;
    <a>
    <img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL-PostgreSQL?style=plastic&logo=PostgreSQL&logoColor=blue&color=white">
    </a>
@@ -45,10 +45,10 @@
    <img alt="NGINX" src="https://img.shields.io/badge/-NGINX-yellow?logo=nginx&logoColor=white"/>
    </a>
    &emsp;
-  <a>
-    <img alt="Static Badge" src="https://img.shields.io/badge/kafka-kafka?style=plastic&logo=apachekafka&logoColor=black&color=white">
+   <a>
+   <img alt="Static Badge" src="https://img.shields.io/badge/kafka-kafka?style=plastic&logo=apachekafka&logoColor=black&color=white">
    &emsp;
-  <a> 
+   <a> 
    <img alt="Static Badge" src="https://img.shields.io/badge/kubernetes-kubernetes?style=plastic&logo=kubernetes&logoColor=white&color=blue">
    </a>
    &emsp;
@@ -79,17 +79,17 @@
    <a> 
    <img alt="github" src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white">
    </a>
-    &emsp;
-    <a>
-      <img alt="Static Badge" src="https://img.shields.io/badge/Keycloak-Keycloak?style=plastic&logo=Keycloak&color=black">
-    </a>
+   &emsp;
+   <a>
+   <img alt="Static Badge" src="https://img.shields.io/badge/Keycloak-Keycloak?style=plastic&logo=Keycloak&color=black">
+   </a>
 </p>
 ## Connect with me:
 <p align="left">
    <a href="https://www.linkedin.com/in/Borhan-shaverdi/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Borhan shaverdi" height="30" width="40" /></a>
-   <a href="https://www.instagram.com/Borhanshaverdi/" target="blank"><img align="center"
+   <a href="https://www.instagram.com/Borhan.shaverdi/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="Borhan shaverdi" height="30" width="40" /></a>
 </p>
