@@ -28,6 +28,10 @@
    <a>
    <img alt="Static Badge" src="https://img.shields.io/badge/Jenkins-Jenkins?style=plastic&logo=Jenkins&logoColor=white&color=red">
    </a>
+     &emsp;
+   <a>
+   <img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL-PostgreSQL?style=plastic&logo=PostgreSQL&logoColor=blue&color=white">
+   </a>
    &emsp;
    <a> 
    <img alt="mongodb" src="https://img.shields.io/badge/-mongoDb-green?logo=mongodb&logoColor=white">
@@ -41,7 +45,10 @@
    <img alt="NGINX" src="https://img.shields.io/badge/-NGINX-yellow?logo=nginx&logoColor=white"/>
    </a>
    &emsp;
-   <a> 
+  <a>
+    <img alt="Static Badge" src="https://img.shields.io/badge/kafka-kafka?style=plastic&logo=apachekafka&logoColor=black&color=white">
+   &emsp;
+  <a> 
    <img alt="Static Badge" src="https://img.shields.io/badge/kubernetes-kubernetes?style=plastic&logo=kubernetes&logoColor=white&color=blue">
    </a>
    &emsp;
@@ -69,13 +76,13 @@
    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
    </a>
    &emsp;
-   <a>
-   <img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL-PostgreSQL?style=plastic&logo=PostgreSQL&logoColor=blue&color=white">
-   </a>
-   &emsp;
    <a> 
    <img alt="github" src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white">
    </a>
+    &emsp;
+    <a>
+      <img alt="Static Badge" src="https://img.shields.io/badge/Keycloak-Keycloak?style=plastic&logo=Keycloak&color=black">
+    </a>
 </p>
 ## Connect with me:
 <p align="left">
