@@ -31,6 +31,10 @@ Here are some ideas to get you started:
   <a> 
     <img alt="Elasticsearch" src="https://img.shields.io/badge/-ElasticSearch-brightgreen?logo=elasticsearch&logoColor=white">
   </a> 
+    &emsp;
+  <a>
+    <img alt="Static Badge" src="https://img.shields.io/badge/Jenkins-Jenkins?style=plastic&logo=Jenkins&logoColor=white&color=red">
+  </a>
   &emsp;
   <a> 
      <img alt="mongodb" src="https://img.shields.io/badge/-mongoDb-green?logo=mongodb&logoColor=white">
@@ -60,6 +64,10 @@ Here are some ideas to get you started:
 <img alt="Static Badge" src="https://img.shields.io/badge/zabbix-zabbix?style=plastic&logo=zabbix&logoColor=white&color=red">
 </a>
   &emsp;
+  <a>
+    <img alt="Static Badge" src="https://img.shields.io/badge/Prometheus-Prometheus?style=plastic&logo=Prometheus&logoColor=orange&color=white">
+  </a>
+  &emsp;
 <a>
   <img alt="Static Badge" src="https://img.shields.io/badge/dotnet-dotnet?style=plastic&logo=dotnet&logoColor=white&color=purple">
 </a>
@@ -67,10 +75,7 @@ Here are some ideas to get you started:
 <a>
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
   </a>
-  &emsp;
-  <a>
-    <img alt="Static Badge" src="https://img.shields.io/badge/Jenkins-Jenkins?style=plastic&logo=Jenkins&logoColor=white&color=red">
-  </a>
+
   &emsp;
   <a>
     <img alt="Static Badge" src="https://img.shields.io/badge/Grafana-Grafana?style=plastic&logo=Grafana&logoColor=orange&color=white">
@@ -79,10 +84,7 @@ Here are some ideas to get you started:
   <a>
     <img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL-PostgreSQL?style=plastic&logo=PostgreSQL&logoColor=blue&color=white">
   </a>
-  &emsp;
-  <a>
-    <img alt="Static Badge" src="https://img.shields.io/badge/Prometheus-Prometheus?style=plastic&logo=Prometheus&logoColor=orange&color=white">
-  </a>
+
   
 </p>
 
