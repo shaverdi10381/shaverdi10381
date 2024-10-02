@@ -1,3 +1,4 @@
+# Hello there I am Borhan shaverdi👋
 <!--
 **shaverdi10381/shaverdi10381** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hello there I am Borhan shaverdi👋
+
 
 ![](https://github.com/shaverdi10381/shaverdi10381/blob/master/icons/header_.png)
 
@@ -22,8 +23,7 @@ Here are some ideas to get you started:
 ## My tech stack
 
 <p align="left"> 
-
-   <a>
+  <a>
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
   </a>
   &emsp;
@@ -79,4 +79,6 @@ Here are some ideas to get you started:
   <br>
   <br>
  </p>
-<a href="https://stackoverflow.com/users/27569491/borhan-shaverdi"><img src="https://stackoverflow.com/users/flair/27569491.png" width="208" height="58" alt="profile for Borhan Shaverdi at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Borhan Shaverdi at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+ <p align="center">
+   <a href="https://stackoverflow.com/users/27569491/borhan-shaverdi"><img src="https://stackoverflow.com/users/flair/27569491.png" width="208" height="58" alt="profile for Borhan Shaverdi at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Borhan Shaverdi at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+ </p>
