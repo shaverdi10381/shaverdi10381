@@ -60,7 +60,7 @@ Here are some ideas to get you started:
   </a>
   &emsp;
   <a> 
-     <img alt="kubernetes" src="[https://img.shields.io/badge/-mongoDb-green?logo=mongodb&logoColor=white](https://img.shields.io/badge/kubernetes-kubernetes?style=plastic&logo=kubernetes&logoColor=white&color=blue)">
+    <img alt="Static Badge" src="https://img.shields.io/badge/kubernetes-kubernetes?style=plastic&logo=kubernetes&logoColor=white&color=blue">
    </a>
   
 </p>
