@@ -13,7 +13,7 @@
    - 😄 Pronouns: ...
    - ⚡ Fun fact: ...
    -->
-![](https://github.com/shaverdi10381/shaverdi10381/blob/master/icons/header_.png)
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 ## My tech stack
 <p align="left"> 
@@ -105,5 +105,5 @@
    <br>
 </p>
 <p align="center">
-   <a href="https://stackoverflow.com/users/27569491/borhan-shaverdi"><img src="https://stackoverflow.com/users/flair/27569491.png" width="208" height="58" alt="profile for Borhan Shaverdi at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Borhan Shaverdi at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+  <a href="https://stackoverflow.com/users/27569491/borhan-shaverdi"><img src="https://stackoverflow.com/users/flair/27569491.png" width="208" height="58" alt="profile for Borhan Shaverdi at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Borhan Shaverdi at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 </p>
