@@ -58,6 +58,11 @@ Here are some ideas to get you started:
   <a>
     <img alt="NGINX" src="https://img.shields.io/badge/-NGINX-yellow?logo=nginx&logoColor=white"/>
   </a>
+  &emsp;
+  <a> 
+     <img alt="kubernetes" src="[https://img.shields.io/badge/-mongoDb-green?logo=mongodb&logoColor=white](https://img.shields.io/badge/kubernetes-kubernetes?style=plastic&logo=kubernetes&logoColor=white&color=blue)">
+   </a>
+  
 </p>
 
 
