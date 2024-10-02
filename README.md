@@ -97,7 +97,7 @@
       alt="Borhan shaverdi" height="30" width="40" /></a>
 </p>
 -----
-<p align="center">
+<p align="left">
    <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=shaverdi10381&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
    <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=shaverdi10381&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
    <img height="50%" width="auto" src ="https://github-readme-streak-stats.herokuapp.com?user=shaverdi10381&theme=darcula&hide_border=true&background=FFFFFF00">
