@@ -23,14 +23,7 @@ Here are some ideas to get you started:
 ## My tech stack
 
 <p align="left"> 
-  <a>
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
-  </a>
-  &emsp;
-  <a>
-    <img alt="Serveless" src="https://img.shields.io/badge/-Serverless-orange?logo=serverless&logoColor=white"/>
-  </a>
-  &emsp;
+  
   <a>
     <img alt="Git" src="https://img.shields.io/badge/-git-red?logo=git&logoColor=white"/>
   </a>
@@ -47,10 +40,6 @@ Here are some ideas to get you started:
     <img alt="github" src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white">
   </a>
   &emsp;
-   <a>
-    <img alt="tensorflow" src="https://img.shields.io/badge/-tensorflow-orange?logo=tensorflow&logoColor=white">
-  </a>
-  &emsp;
   <a>
     <img alt="redis" src="https://img.shields.io/badge/-redis-red?logo=redis&logoColor=white"/>
   </a>
@@ -62,9 +51,26 @@ Here are some ideas to get you started:
   <a> 
     <img alt="Static Badge" src="https://img.shields.io/badge/kubernetes-kubernetes?style=plastic&logo=kubernetes&logoColor=white&color=blue">
    </a>
+    &emsp;
 <a>
    <img alt="Static Badge" src="https://img.shields.io/badge/docker-docker?style=plastic&logo=docker&logoColor=white&color=blue">
 </a>
+    &emsp;
+<a>
+<img alt="Static Badge" src="https://img.shields.io/badge/zabbix-zabbix?style=plastic&logo=zabbix&logoColor=white&color=red">
+</a>
+  &emsp;
+<a>
+  <img alt="Static Badge" src="https://img.shields.io/badge/dotnet-dotnet?style=plastic&logo=dotnet&logoColor=white&color=purple">
+</a>
+ &emsp;
+<a>
+    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
+  </a>
+  &emsp;
+  <a>
+    <img alt="Static Badge" src="https://img.shields.io/badge/Jenkins-Jenkins?style=plastic&logo=Jenkins&logoColor=white&color=red">
+  </a>
   
 </p>
 
