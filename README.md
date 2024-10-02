@@ -71,6 +71,18 @@ Here are some ideas to get you started:
   <a>
     <img alt="Static Badge" src="https://img.shields.io/badge/Jenkins-Jenkins?style=plastic&logo=Jenkins&logoColor=white&color=red">
   </a>
+  &emsp;
+  <a>
+    <img alt="Static Badge" src="https://img.shields.io/badge/Grafana-Grafana?style=plastic&logo=Grafana&logoColor=orange&color=white">
+  </a>
+   &emsp;
+  <a>
+    <img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL-PostgreSQL?style=plastic&logo=PostgreSQL&logoColor=blue&color=white">
+  </a>
+  &emsp;
+  <a>
+    <img alt="Static Badge" src="https://img.shields.io/badge/Prometheus-Prometheus?style=plastic&logo=Prometheus&logoColor=orange&color=white">
+  </a>
   
 </p>
 
