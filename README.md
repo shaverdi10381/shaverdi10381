@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **shaverdi10381/shaverdi10381** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,11 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-
-
-# Borhan-Shaverdi
 # Hello there I am Borhan shaverdi👋
 
 ![](https://github.com/shaverdi10381/shaverdi10381/blob/master/icons/header_.png)
@@ -76,12 +69,6 @@ Here are some ideas to get you started:
   <a href="https://www.instagram.com/Borhanshaverdi/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="Borhan shaverdi" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/Borhanrshaverdi" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="Borhan shaverdi" height="30" width="40" /></a>
-  <a href="https://www.upwork.com/freelancers/~01b76da506f37dac94" target="blank"><img align="center"
-      src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Upwork-logo.svg"
-      alt="Borhan shaverdi" height="30" width="auto" /></a>
 </p>
 
 -----
