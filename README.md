@@ -62,6 +62,9 @@ Here are some ideas to get you started:
   <a> 
     <img alt="Static Badge" src="https://img.shields.io/badge/kubernetes-kubernetes?style=plastic&logo=kubernetes&logoColor=white&color=blue">
    </a>
+<a>
+   <img alt="Static Badge" src="https://img.shields.io/badge/docker-docker?style=plastic&logo=docker&logoColor=white&color=blue">
+</a>
   
 </p>
 
