@@ -57,6 +57,10 @@
    </a>
    &emsp;
    <a>
+   <img alt="Static Badge" src="https://img.shields.io/badge/Keycloak-Keycloak?style=plastic&logo=Keycloak&color=black">
+   </a>     
+   &emsp;
+   <a>
    <img alt="Static Badge" src="https://img.shields.io/badge/Grafana-Grafana?style=plastic&logo=Grafana&logoColor=orange&color=white">
    </a>
    &emsp;
@@ -78,10 +82,6 @@
    &emsp;
    <a> 
    <img alt="github" src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white">
-   </a>
-   &emsp;
-   <a>
-   <img alt="Static Badge" src="https://img.shields.io/badge/Keycloak-Keycloak?style=plastic&logo=Keycloak&color=black">
    </a>
 </p>
 ## Connect with me:
